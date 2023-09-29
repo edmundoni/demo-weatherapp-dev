@@ -15,6 +15,6 @@ spec:
       autoscaling.knative.dev/minScale: "1"
   source:
     git:
-      url: <https://github.com/edmundoni/weatherapp-demo-dev.git>
+      url: https://github.com/edmundoni/demo-weatherapp-dev.git
       ref:
         branch: main
